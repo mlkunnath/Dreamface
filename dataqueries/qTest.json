@@ -1,0 +1,49 @@
+{
+	"selector": ":root",
+	"update_comment": "",
+	"ownerId": "",
+	"persistence": "none",
+	"settings": {
+		"postrequestbody": "",
+		"authentication": "none",
+		"auth_password": "",
+		"typerequest": "HTTP_GET",
+		"urlrandom": "0",
+		"auth_userid": "",
+		"url": "",
+		"dbdriver": ""
+	},
+	"appexpr": [],
+	"format": "json",
+	"dependency": "",
+	"category": "",
+	"description": "",
+	"name": "qTest",
+	"connector": "http",
+	"requestDate": "2014-09-23T15:54:33.899Z",
+	"parameters": [],
+	"metadata": {
+		"name": "root",
+		"type": "root",
+		"children": {}
+	},
+	"source": "ext",
+	"visibility": "visible",
+	"lock": {
+		"status": "unlocked"
+	},
+	"precode": [],
+	"postcode": [],
+	"service": {
+		"name": "0",
+		"method": ""
+	},
+	"_id": "542197b92ff9c16c1e2cfa1b",
+	"versioning": {
+		"Dreamface": {
+			"last_action": "1413395259",
+			"status": "committed",
+			"user": "admin"
+		}
+	}
+}

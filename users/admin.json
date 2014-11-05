@@ -1,0 +1,16 @@
+{
+	"tenant": "gitHub1",
+	"login": "admin",
+	"roles": {
+		"list": [
+			"admin"
+		],
+		"default": "admin"
+	},
+	"email": "",
+	"type": "staff",
+	"lastName": "",
+	"firstName": "",
+	"_id": "542197682ff9c16c1e2cfa17",
+	"pass": "12345"
+}
